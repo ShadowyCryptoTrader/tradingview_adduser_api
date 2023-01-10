@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#code by @runbibot -> ShadowyCryptoTrader.Jan 2023.
 from setuptools import setup
 
 setup(

@@ -1,3 +1,5 @@
+#code by @runbibot -> ShadowyCryptoTrader. Jan 2023.
+
 import json
 import time
 
