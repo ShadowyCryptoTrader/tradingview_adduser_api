@@ -1,0 +1,1 @@
+web: gunicorn tradingviewaccess:app --timeout 60
