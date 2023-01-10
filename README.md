@@ -16,6 +16,7 @@ Postman example:
 Things to improve:
 
 - Add the expiration date of the access.
+- Replace those ugly sleep() with Explicit waits: https://selenium-python.readthedocs.io/waits.html. Will improve peroformance and avoid issues.
 - Add security so that only you can access the API endpoint. (API key, etc..)
 - Add a delete user operation.
 - Move the password to a SECURE properties file.
