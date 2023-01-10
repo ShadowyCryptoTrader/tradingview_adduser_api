@@ -7,7 +7,7 @@ Python selenium API to automate user access to your Trading View invite-only ind
 
 To test, simply send a post request to the endpoint and include in the message body the user to be added and the tradingview script name:
 
-
+Postman example:
 
 ![image](https://user-images.githubusercontent.com/122331832/211453282-64442f90-24c0-4bfb-9142-3329245fa340.png)
 
