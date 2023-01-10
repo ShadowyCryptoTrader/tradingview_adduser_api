@@ -92,7 +92,7 @@ def addusertotv():
         sleep(0.5)
     except Exception as g:
         driver.quit()
-        print('Exception jodiendo con chrome')
+        print('Exception. TODO: proper error handling')
         print(g)    
     
     driver.quit()     
