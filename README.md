@@ -12,13 +12,15 @@ Postman example:
 ![image](https://user-images.githubusercontent.com/122331832/211453282-64442f90-24c0-4bfb-9142-3329245fa340.png)
 
 
-
-Things to improve:
+Pending functionalities:
 
 - Add the expiration date of the access.
-- Replace those ugly sleep() with Explicit waits: https://selenium-python.readthedocs.io/waits.html. Will improve peroformance and avoid issues.
-- Add security so that only you can access the API endpoint. (API key, etc..)
 - Add a delete user operation.
+
+Other things to improve the code:
+
+- Replace those ugly sleep() with Explicit waits: https://selenium-python.readthedocs.io/waits.html. Will improve performance and avoid issues when HTML elements are not fully loaded.
+- Add security so that only you can access the API endpoint. (API key, etc..)
 - Move the password to a SECURE properties file.
 - Error handling, asynchronous messaging, retries, etc...
 
